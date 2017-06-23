@@ -129,7 +129,7 @@ site = Site_ALI.new
 site.load_calendar
 
 OptionParser.new do |opts|
-  opts.banner = "Usage: jd [options]"
+  opts.banner = "Usage: ali [options]"
   opts.separator ""
   opts.separator "Specific options:"
 
